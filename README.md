@@ -19,7 +19,7 @@
 
 ## 문서 목록
 
--   [TypeScript + Node.js Convention](./typescript-nodejs.md)
+-   [TypeScript + Node.js Convention](./typescript-nodejs-convention.md)
 -   [Infrastructure Guide](./infra.md)
 -   [Notes (개발 철학 및 메모)](./notes)
 
